@@ -1,6 +1,0 @@
-[submodule "configure-meraki"]
-	path = configure-meraki
-	url = git@github.com:usmc0341/meraki_configurator.git
-[submodule "sentinel-image-builder"]
-	path = sentinel-image-builder
-	url = git@github.com:usmc0341/pkg-dmg-creator.git
